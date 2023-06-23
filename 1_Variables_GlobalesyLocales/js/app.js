@@ -1,19 +1,4 @@
 "use strict"
 
-var nombre = "Gabriel"
+const pi = 3.1416;
 
-console.log(nombre)
-
-function saludo(){
-    // Let para crear un contenedor de bloque
-    let nombre = "Alberto"
-    console.log(nombre)
-
-    let edad = 23
-
-
-}
-
-saludo()
-
-console.log(edad)
