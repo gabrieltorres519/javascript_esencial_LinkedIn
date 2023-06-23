@@ -10,8 +10,10 @@ function saludo(){
     console.log(nombre)
 
     let edad = 23
-    console.log(edad)
+
 
 }
 
 saludo()
+
+console.log(edad)
