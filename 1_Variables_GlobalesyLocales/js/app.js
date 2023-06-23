@@ -5,5 +5,13 @@ var nombre = "Gabriel"
 console.log(nombre)
 
 function saludo(){
-    var nombre = "Alberto"
+    // Let para crear un contenedor de bloque
+    let nombre = "Alberto"
+    console.log(nombre)
+
+    let edad = 23
+    console.log(edad)
+
 }
+
+saludo()
