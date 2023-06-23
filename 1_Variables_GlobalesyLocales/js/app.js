@@ -1,4 +1,10 @@
 "use strict"
 
-const pi = 3.1416;
+var edad = 23;
 
+var cantidad = "100";
+
+var nuevaCantidad = Number(cantidad)
+
+// parseInt()
+// parseFloat()
