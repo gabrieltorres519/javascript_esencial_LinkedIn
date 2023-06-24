@@ -11,6 +11,10 @@ var cuenta = 0;
 
 for(contador=0; contador <= 28; contador++){
 
+    if(cuenta == 5){
+        break; // Terminamos el ciclo cuando se hayan contabilizado 5 números impares
+    }
+
     if(contador % 2 == 0){
         continue; // Si se entra a la condición significa que se encontró un par
                   // por lo que no se debe aumentar la cuenta de  impares, al usar continue
