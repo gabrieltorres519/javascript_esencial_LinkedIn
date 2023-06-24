@@ -7,4 +7,4 @@ do{
     console.log(productos)
     productos--;
     debugger;
-}while(productos > 0);
+}while(productos >= 1);
