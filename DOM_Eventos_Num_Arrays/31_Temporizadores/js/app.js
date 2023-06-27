@@ -1,6 +1,10 @@
  "use strict"
 
-var temporizador = setInterval(function (){
+// var temporizador = setInterval(function (){
+//     setColor()
+// }, 2000)
+
+setTimeout(function (){
     setColor()
 }, 2000)
 
